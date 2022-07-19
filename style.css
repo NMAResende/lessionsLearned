@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(253, 251, 251);
+    padding-left: 2%;
+}
+#cabecalho{
+    top:0%;
+    position: fixed;
+    border: 2px solid black;
+    background-color: green;
+    color: white;
+   font-family: fantasy;
+}
+#minha_foto{
+    width: 300px;
+    border-radius: 20%;
+    top: 100px;
+    position: relative;
+}
+#licoes{
+    position: relative;
+    top: 90px;
+   color:rgb(160, 36, 57);
+}
+#licoes_aprendidas{
+    position: relative;
+    top: 70px;
+    display: inline-block;
+    padding-left: 60px;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#licoes_a_aprender{
+    position: relative;
+   bottom: 170px;
+    display: inline-block;
+    padding-left: 400px;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#rodape{
+    position: relative;
+    font-size: 20px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#navegador{
+    position: relative;
+    bottom: 250px;
+}
+#artigo{
+    bottom: 300px;
+    position: relative;
+    font-size: 20px;
+    text-align: justify;
+    font-family: fantasy;
+}
+#curiosidade{
+    bottom: 700px;
+    position: relative;
+    display: inline-block;
+    margin-left: 600px;
+    padding: 1%;
+    border: 2px solid rgb(160, 36, 57);
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#h2curiosidade{
+    text-align: center;
+    color:rgb(160, 36, 57);
+}
+h3{
+    color:rgb(160, 36, 57);
+}
