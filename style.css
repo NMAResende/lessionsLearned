@@ -47,26 +47,30 @@ body{
     bottom: 250px;
 }
 #artigo{
-    bottom: 300px;
+    bottom: 345px;
     position: relative;
     font-size: 20px;
-    text-align: justify;
     font-family: fantasy;
+    display: inline-block;
+    margin-right: 800px;
+    border: 2px solid rgb(160, 36, 57);
+    padding: 1%;
+    text-align: justify;
 }
 #curiosidade{
-    bottom: 700px;
+    bottom: 100px;
     position: relative;
     display: inline-block;
-    margin-left: 600px;
+    margin-left: 800px;
     padding: 1%;
     border: 2px solid rgb(160, 36, 57);
-    font-size: 18px;
+    font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
-#h2curiosidade{
-    text-align: center;
+
+.lado-esquerdo{
     color:rgb(160, 36, 57);
 }
-h3{
+.lado-direito{
     color:rgb(160, 36, 57);
 }
